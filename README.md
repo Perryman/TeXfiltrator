@@ -3,6 +3,6 @@ Exfiltrate using KaTeX
 
 ## Roadmap
 
-# Caesar
-# Base64
-# AES
+* Caesar
+* Base64
+* AES
